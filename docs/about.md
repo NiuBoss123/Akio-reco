@@ -3,9 +3,6 @@ title: 关于御坂秋生
 createTime: 2022/04/13
 permalink: /about/
 ---
-<script setup>
-import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
-</script>
 
 ## 简介
 ### 个人资讯
