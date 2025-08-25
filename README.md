@@ -20,5 +20,5 @@ blog:
     - { icon: 'LogoGithub', link: 'https://github.com/NiuBoss123' }
 isShowTitleInHome: true
 actionText: About
-actionLink: /views/other/about
+actionLink: /about
 ---

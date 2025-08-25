@@ -45,9 +45,6 @@ export default defineUserConfig({
       { text: "友情链接", link: "https://www.akio.top/friends" },
       { text: "前往主站", link: "https://www.akio.top" },
     ],
-    bulletin: {
-      body: [],
-    },
     // commentConfig: {
     //   type: 'valine',
     //   // options 与 1.x 的 valineConfig 配置一致
