@@ -8,13 +8,15 @@
   "scripts": {
     "dev": "vuepress dev .",
     "start": "vuepress dev .",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "deploy": "npx wrangler deploy --assets=./dist"
   },
   "dependencies": {
     "vue": "^3.5.13",
     "vuepress": "2.0.0-rc.19",
     "vuepress-theme-reco": "2.0.0-rc.26",
     "@vuepress/bundler-vite": "2.0.0-rc.19",
-    "@vuepress/bundler-webpack": "2.0.0-rc.19"
+    "@vuepress/bundler-webpack": "2.0.0-rc.19",
+    "wrangler": "^3.35.0"
   }
 }
